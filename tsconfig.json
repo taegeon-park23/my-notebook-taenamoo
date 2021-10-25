@@ -11,6 +11,7 @@
     "rootDir": "src",
     "experimentalDecorators": true,
     "emitDecoratorMetadata": true,
+    "skipLibCheck": true,
     "paths": {
       "*": [
         "node_modules/*",
